@@ -8,7 +8,7 @@
 
 > Predicting the risk of heart disease using an interpretable machine learning model — with real-time SHAP explanations for each individual prediction.
 
-**[ Live Demo](https://heart-disease-predictor-vxbxp54gfyv3kjsvxha7io.streamlit.app/)** | **[📓 EDA Notebook](notebooks/01_EDA_Heart_Disease.ipynb)** | **[📓 Modeling Notebook](notebooks/02_Modeling.ipynb)** | **[ SHAP Notebook](notebooks/03_SHAP_Analysis.ipynb)**
+**[ Live Demo](https://heart-disease-predictor-vxbxp54gfyv3kjsvxha7io.streamlit.app/)** | **[ EDA Notebook](notebooks/01_EDA_Heart_Disease.ipynb)** | **[ Modeling Notebook](notebooks/02_Modeling.ipynb)** | **[ SHAP Notebook](notebooks/03_SHAP_Analysis.ipynb)**
 
 ---
 
