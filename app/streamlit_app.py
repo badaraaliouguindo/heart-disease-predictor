@@ -122,4 +122,3 @@ with col2:
 
 # --- Footer ---
 st.divider()
-st.caption("Projet portfolio — Data Science Master | Dataset : Heart Disease UCI")
