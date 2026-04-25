@@ -69,7 +69,8 @@ heart-disease-predictor/
 │   ├── scaler.pkl                      # StandardScaler
 │   └── feature_names.pkl              # Feature names
 ├── requirements.txt
-└── README.md  ```
+└── README.md
+```
 
 ---
 
