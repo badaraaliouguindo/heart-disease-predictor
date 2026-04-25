@@ -20,7 +20,7 @@ This project builds an end-to-end machine learning pipeline to predict whether a
 
 ## Demo
 
-![App Screenshot](https://via.placeholder.com/900x450?text=Heart+Disease+Predictor+App)
+<img width="1912" height="907" alt="image" src="https://github.com/user-attachments/assets/55509f2f-37cf-4446-910e-7e693dce055e" />
 
 > Adjust patient parameters in the sidebar → get an instant prediction + SHAP explanation
 
