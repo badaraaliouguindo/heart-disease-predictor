@@ -57,6 +57,7 @@ These findings are clinically consistent with established cardiology literature.
 
 ## Project Structure
 
+```
 heart-disease-predictor/
 ├── notebooks/
 │   ├── 01_EDA_Heart_Disease.ipynb      # Exploratory Data Analysis
@@ -68,7 +69,7 @@ heart-disease-predictor/
 │   ├── scaler.pkl                      # StandardScaler
 │   └── feature_names.pkl              # Feature names
 ├── requirements.txt
-└── README.md
+└── README.md  ```
 
 ---
 
